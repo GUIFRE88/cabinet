@@ -14,8 +14,6 @@ In this project, was used this languages and frameworks:
 
 A very simple project, call Cabinet Notes, used for create notes 
 
-##  💻 Example: 
-
 
 
 ----
